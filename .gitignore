@@ -1,8 +1,5 @@
 logs/
-<<<<<<< HEAD
-myfile.py
-compile/
-=======
-bin/
 
->>>>>>> parent of a31230a (Removed Gitignore)
+compile/
+
+
